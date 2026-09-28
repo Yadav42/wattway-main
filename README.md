@@ -28,11 +28,11 @@ XAMPP
 
 ## Installation
 
-1. git clone https://github.com/arfaheemshahnawaz-web/wattway-ev-charging-system
+1. git clone https://github.com/devanshyadav-web/wattway-ev-charging-system
 2. Move project to XAMPP htdocs
 3. Import database from `schema.sql`
 4. Start Apache and MySQL
 
 ## Author
 
-A R Faheem Shah Nawaz
+Devansh Yadav
